@@ -2,7 +2,6 @@
     Document   : index
     Created on : 10 de jan de 2024, 17:50:40
     Author     : joaopedro
-/*https://youtu.be/krfm6kcgvt0?t=4309*/
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -18,7 +17,7 @@
         <!-- Bootstrap via cdn -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 
-        <!<!-- Bootstrap icons -->
+        <!-- Bootstrap icons -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
         
         <style>
